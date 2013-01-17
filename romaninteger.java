@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//TERI MAA KI CHOOT
+
 public class romaninteger {
 public static void main(String args[])
 {
